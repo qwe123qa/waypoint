@@ -16,7 +16,7 @@
 ### example
 ```javascript
 $('element').ryderCool({
-	hook: 0.9,
+	hook: 0.5,
 	repeat: true,
 	enter(el) {
 		// do something
